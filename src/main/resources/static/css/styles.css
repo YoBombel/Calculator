@@ -1,0 +1,13 @@
+body{
+    background-color: #1c1c1c;
+    color: #cecece;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+}
+
+li {
+    font-size: smaller;
+}
